@@ -1,0 +1,56 @@
+body{
+    width: 1200px;
+    height: 200px;
+}
+
+
+header{
+    width: 900px;
+    height: 100px;
+    background-color: grey;
+    margin: 10px;
+} 
+
+nav{
+    width: 900px;
+    height: 70px;
+    background-color: grey;
+    margin: 10px;
+}
+
+h{
+    width: 900px;
+    height: 100px;
+    background-color: grey;
+    margin: 10px;
+}
+
+.aside1{
+    float: left;
+    width: 150px;
+    height: 50px;
+    background-color: grey;
+    margin: 10px;
+}
+
+.aside2{
+    float: right;
+    width: 150px;
+    height: 100px;
+    background-color: grey;
+    margin: 10px;
+}
+
+main{
+    width: 900px;
+    height: 100px;
+    background-color: grey;
+    margin: 10px;
+}
+
+footer{
+    width: 900px;
+    height: 50px;
+    background-color: grey;
+    margin: 10px;
+}

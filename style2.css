@@ -1,0 +1,89 @@
+
+
+
+
+
+
+
+
+.dog1{
+    object-fit: fill;
+    margin: 10px;
+    background-color: white;
+}
+.dog2{
+    object-fit: cover;
+    margin: 10px;
+    background-color: white;
+}
+.dog3{
+    object-fit: contain;
+    margin: 10px;
+    background-color: white;
+}
+.dog4{
+    object-fit: none;
+    margin: 10px;
+    background-color: white;
+}
+.dog5{
+    object-fit: scale-down;
+    margin: 10px;
+    background-color: white;
+}
+.deze{
+    width: auto;
+    height: auto;
+    background-color: rgb(227, 230, 109);
+}
+
+img{
+    width: 350px;
+    height: 250px;
+}
+
+figure{
+    display:inline-block;
+    color: black;
+    font-style: italic;
+    font-size:xx-large;
+    text-align: center;
+}
+
+
+.doges{
+    background-color: rgb(222, 222, 67);
+    width: 1000px;
+    height: 600px;
+}
+
+ 
+
+.image {
+    margin: 40px;
+    width: 150px;
+    height: 100px;
+    display: inline-block;
+}
+
+.flat{
+    margin: 40px;
+ 
+    width: 150px;
+    height: 100px;
+    display: inline-block;
+}
+
+.gradient{
+    margin: 40px;
+
+    width: 150px;
+    height: 100px;
+    display: inline-block;
+} 
+
+img{
+    width: 150px;
+    height: 100px;
+}
+

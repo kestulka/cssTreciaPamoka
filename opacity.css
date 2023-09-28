@@ -1,0 +1,29 @@
+section{
+    margin: auto;
+    position: relative;
+    /* opacity: 50%;
+    background-image: url("cat.jpg"); */
+}
+
+
+section::before{
+    content: "";
+    background-image: url("cat.jpg");
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    width: 700px;
+    height: 500px;
+    opacity: 50%;
+}
+
+h1, h2, h3, h4, h5, h6{
+    position: relative;
+}
+
+h1::selection{color: rgb(164, 2, 164);}
+h2::selection{color: rgb(58, 167, 235);}
+h3::selection{color: rgb(34, 247, 237);}
+h4::selection{color: rgb(241, 227, 26);}
+h5::selection{color: rgb(20, 231, 27);}
+h6::selection{color: rgb(242, 16, 20);}
